@@ -29,11 +29,9 @@
 - ADO.NET  
 - ASP.NET MVC  
 - ASP.NET Web API  
-- Windows Forms  
 
 **Databases:**  
 - SQL Server  
-- MySQL  
 
 **Tools:**  
 - Visual Studio  
