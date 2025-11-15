@@ -1,17 +1,14 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 ###
 
 <h1 align="center">👋 Hi, I'm Karim Gamal Draz</h1>
-<p align="center">.NET Back-End Developer | Computer Science Student at Menoufia University</p>
+<p align="center"> Software Engineer | .NET Full Stack Developer | Computer Science Student at Menoufia University</p>
 
 ###
 
 ## 👨‍🎓 About Me
 <p align="left">
-🎓 Computer Science student at <i>Faculty of Science, Menoufia University</i>.<br>
+🎓 I'm computer ccience student at <i>Faculty of Science, Menoufia University</i>.<br>
 💻 .NET Developer specialized in <b>ASP.NET Core & Entity Framework Core</b>.<br>
 🌱 Currently learning <b>Full Stack Development</b>.<br>
 💡 Passionate about building <b>scalable back-end systems and RESTful APIs</b>.<br>
