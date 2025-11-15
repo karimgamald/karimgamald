@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Karim Gamal Draz  
-**.NET Back-End Developer | Computer Science Student at Menoufia University**  
+**Software Engineer | .NET Full-Stack Developer | Computer Science Student at Menoufia University**  
 
 ---
 
