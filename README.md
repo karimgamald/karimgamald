@@ -13,7 +13,7 @@
 🌱 Currently learning <b>Full Stack Development</b>.<br>
 💡 Passionate about building <b>scalable back-end systems and RESTful APIs</b>.<br>
 💬 Ask me about <b>C#, ASP.NET Core, SQL Server, and OOP concepts</b>.<br>
-📫 Reach me at <b>karimdraz09@gmail.com</b>
+📫 Reach me at **karimdraz09@gmail.com**
 </p>
 
 ###
